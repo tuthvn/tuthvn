@@ -1,6 +1,6 @@
-<div>
-  <center><strong style="font-size:35px">Tu Tran Hoang</strong></center>
-</div>
+**<center style="font-size:35px">Tu Tran Hoang</center>**
+
+***<center>“Be the change that you want to see in the world.”</center>***
 
 <center>
   ✉️ tuth.vn@gmail.com |
@@ -9,7 +9,7 @@
 
   [![Linkedin](https://static.licdn.com/aero-v1/sc/h/47josflhxdz9o3v227aa72l1p)](https://www.linkedin.com/in/tuthvn) |
   [Github](https://github.com/tuthvn) |
-  [Website](https://www.yourwebsite.com)
+  [Website](https://tuth.vn)
 </center>
 
 ---
@@ -27,35 +27,49 @@ Software engineer with more than 5 years of experience specializing in backend a
   <div style="text-align: right; float: right; width: 50%;">Mar 2022 - Present</div>
   Senior Software Engineer
 </dt>
-<dd>This is the definition of the description.</dd>
-<dd>This is the definition of the require.</dd>
-<dd><strong>Language/Technology:</strong> .NET6, ReactJs, MSSQL, Elastic, MongoDB, Hangfire</dd>
+<ul>
+  <li>Engaged in the development of the new web version of FiinPro-X and FiinGate v2,
+    optimizing user experience, and updating a range of prominent features.</li>
+  <li>Managed a large database of in-depth investment research and trading information.</li>
+  <li>Provided quick access to exclusive news, data, detailed information, and trading tools.</li>
+  <li><strong>Language/Technology:</strong> .NET6, ReactJs, MSSQL, Elastic, MongoDB, Redis.</li>
+</ul>
 
 <dt>
   <div style="text-align: left; float: left; width: 50%;">FPT COMPANY</div>
   <div style="text-align: right; float: right; width: 50%;">Jan 2018 - Mar 2022</div>
   Senior/Team Lead/TechLead Software Engineer
 </dt>
-<dd>This is the definition of the description.</dd>
-<dd>This is the definition of the require.</dd>
-<dd><strong>Language/Technology:</strong> .NET6, ReactJs, MSSQL, Elastic, MongoDB, Hangfire</dd>
+<ul>
+  <li>Led the implementation of ERP projects and related modules.</li>
+  <li>Integrated ERP with electronic invoicing, third-party entities, tools, and banks.</li>
+  <li>Developed management software for multiple factories, including personnel management,
+import and export management, and warehouse management.</li>
+  <li>Executed the migration from VB6 to VB.NET.</li>
+  <li><strong>Language/Technology:</strong> Azure Cloud, VB6, VB.Net, C#, .NetCore, Oracle Form, Oracle Database.</li>
+</ul>
 
 <dt>
   <div style="text-align: left; float: left; width: 50%;">3S INTERSOFT</div>
   <div style="text-align: right; float: right; width: 50%;">DEC 2016 - JAN 2018</div>
   Junior Software Engineer
 </dt>
-<dd>This is the definition of the description.</dd>
-<dd>This is the definition of the require.</dd>
+<ul>
+  <li>Created and executed project work plans, adjusting as necessary to meet changing needs
+    and requirements.</li>
+  <li>Conducted testing of customer management systems.</li>
+  <li><strong>Language/Technology:</strong> C#, .NetCore, MSSQL, PortgreDB.</li>
+</ul>
 
 <dt>
   <div style="text-align: left; float: left; width: 50%;">FPT COMPANY</div>
   <div style="text-align: right; float: right; width: 50%;">OCT 2016 - DEC 2016</div>
   Intern
 </dt>
-<dd>This is the definition of the description.</dd>
-<dd>This is the definition of the require.</dd>
-<dd><strong>Language/Technology:</strong> .NET6, ReactJs, MSSQL, Elastic, MongoDB, Hangfire</dd>
+<ul>
+  <li>Participated in the website migration from Lotus Notes to SharePoint.</li>
+  <li><strong>Language/Technology:</strong> Lotus Note, SharePoint.</li>
+</ul>
 </dl>
 
 
@@ -76,3 +90,5 @@ Software engineer with more than 5 years of experience specializing in backend a
   <div style="text-align: left; float: left; width: 50%;">Software Engineering</div>
   <div style="text-align: right; float: right; width: 50%;">Sept 2011 - March 2016</div>  
 </dt>
+
+---
