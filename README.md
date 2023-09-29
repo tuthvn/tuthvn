@@ -1,4 +1,7 @@
-<center><strong style="font-size:35px">Tu Tran Hoang</strong></center>
+<div>
+  <center><strong style="font-size:35px">Tu Tran Hoang</strong></center>
+</div>
+
 <center>
   ✉️ tuth.vn@gmail.com |
   📱 +84 946611993 |
