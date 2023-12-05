@@ -33,6 +33,7 @@ Software engineer with more than 5 years of experience specializing in backend a
   <li>Managed a large database of in-depth investment research and trading information.</li>
   <li>Provided quick access to exclusive news, data, detailed information, and trading tools.</li>
   <li><strong>Language/Technology:</strong> .NET6, ReactJs, MSSQL, Elastic, MongoDB, Redis.</li>
+  <li><strong>Team Size:</strong> 6 </li>
 </ul>
 
 <dt>
@@ -47,6 +48,7 @@ Software engineer with more than 5 years of experience specializing in backend a
 import and export management, and warehouse management.</li>
   <li>Executed the migration from VB6 to VB.NET.</li>
   <li><strong>Language/Technology:</strong> Azure Cloud, VB6, VB.Net, C#, .NetCore, Oracle Form, Oracle Database.</li>
+  <li><strong>Team Size:</strong> 30 </li>
 </ul>
 
 <dt>
@@ -59,6 +61,7 @@ import and export management, and warehouse management.</li>
     and requirements.</li>
   <li>Conducted testing of customer management systems.</li>
   <li><strong>Language/Technology:</strong> C#, .NetCore, MSSQL, PortgreDB.</li>
+  <li><strong>Team Size:</strong> between 3 to 5 </li>
 </ul>
 
 <dt>
@@ -69,6 +72,7 @@ import and export management, and warehouse management.</li>
 <ul>
   <li>Participated in the website migration from Lotus Notes to SharePoint.</li>
   <li><strong>Language/Technology:</strong> Lotus Note, SharePoint.</li>
+  <li><strong>Team Size:</strong> 20 </li>
 </ul>
 </dl>
 
