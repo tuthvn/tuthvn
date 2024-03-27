@@ -22,9 +22,23 @@ Software engineer with more than 5 years of experience specializing in backend a
 
 ## EXPERIENCE
 <dl>
+<dt href="https://www.ominext.com/">
+  <div style="text-align: left; float: left; width: 50%;">OmiNext</div>
+  <div style="text-align: right; float: right; width: 50%;">Oct 2023 - Present</div>
+  Senior Software Engineer
+</dt>
+<ul>
+  <li>Participate in the process of understanding requirements, analyzing, designing technology research and reviewing source code of Medical products for Japanese Customers on .Net technology platform: VB.Net, MVC, ASP.Net,...</li>
+  <li>Work as assigned by BUD/Project Manager, coordinate with teams to develop products.</li>
+  <li>Provided quick access to exclusive news, data, detailed information, and trading tools.</li>
+  <li>Build project teams, train and develop project team members to improve capacity and work efficiency. Coordinate and optimize resources, ensuring cost efficiency.</li>
+  <li><strong>Language/Technology:</strong> .NET6, ReactJs, MSSQL, Elastic, MongoDB, Redis, Cloud providers (Microsoft Azure, Amazon Web Services (AWS)...</li>
+  <li><strong>Team Size:</strong> 15 </li>
+</ul>
+  
 <dt href="https://fiingroup.vn/">
   <div style="text-align: left; float: left; width: 50%;">VIETNAM FIINGROUP JOINT STOCK COMPANY</div>
-  <div style="text-align: right; float: right; width: 50%;">Mar 2022 - Present</div>
+  <div style="text-align: right; float: right; width: 50%;">Mar 2022 - Sep 2023</div>
   Senior Software Engineer
 </dt>
 <ul>
