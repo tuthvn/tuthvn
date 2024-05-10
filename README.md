@@ -16,7 +16,9 @@
 
 ## Summary
 
-Software engineer with more than 5 years of experience specializing in backend and infrastructure development. Passionate about coding and enjoys customizing development environments. Interested in devising better problem-solving methods for challenging tasks, and eager to learn new technologies and tools when needed.
+Expert Software Engineer at OmiGroup VietNam, leading team in key technical projects, demonstrating
+strong leadership and receiving company recognition. Proficient in NetCore, Python, MSSQL, Redis, Algorithms, microservices and distributed system. Recognized for
+designing complex technical solutions and excelling in communication and project management.
 
 ---
 
