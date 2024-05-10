@@ -30,7 +30,7 @@ Software engineer with more than 5 years of experience specializing in backend a
 <ul>
   <li>Participate in the process of understanding requirements, analyzing, designing technology research and reviewing source code of Medical products for Japanese Customers on .Net technology platform: VB.Net, MVC, ASP.Net,...</li>
   <li>Work as assigned by BUD/Project Manager, coordinate with teams to develop products.</li>
-  <li>Provided quick access to exclusive news, data, detailed information, and trading tools.</li>
+  <li>Provided quick access to exclusive news, data, detailed information.</li>
   <li>Build project teams, train and develop project team members to improve capacity and work efficiency. Coordinate and optimize resources, ensuring cost efficiency.</li>
   <li><strong>Language/Technology:</strong> .NET6, ReactJs, MSSQL, Elastic, MongoDB, Redis, Cloud providers (Microsoft Azure, Amazon Web Services (AWS)...</li>
   <li><strong>Team Size:</strong> 15 </li>
