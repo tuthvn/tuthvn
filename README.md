@@ -22,7 +22,7 @@ designing complex technical solutions and excelling in communication and project
 
 ---
 
-## EXPERIENCE
+## Experience
 <dl>
 <dt href="https://www.ominext.com/">
   <div style="text-align: left; float: left; width: 50%;">OmiNext</div>
@@ -102,7 +102,7 @@ import and export management, and warehouse management.</li>
 
 ---
 
-## EDUCATION
+## Education
 
 <dt>
   <div style="text-align: left; float: left; width: 50%; font-weight:bold;">FPT University</div>
